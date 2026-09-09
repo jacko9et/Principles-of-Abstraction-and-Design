@@ -58,3 +58,5 @@ A set of original design documents on abstraction and design: it starts with *Pr
 
 > 注意：实验性设计目录下的文档是探索性内容，与先导文档和核心应用文档的层级不同。<br>
 > Note: Documents under Experimental Designs are exploratory content, on a different level from the foundational and core application documents.
+
+English is not my native language; please feel free to point out any errors or awkward phrasing.
