@@ -4,6 +4,8 @@
 
 A set of original design documents on abstraction and design: it starts with *Principles of Abstraction and Design* to establish the stance and axioms, then applies them to programming language design in *Origin Language Core Abstract Design*, and finally unfolds concrete directions in the experimental design documents.
 
+**Keywords:** abstraction · design principles · programming language design · computational ontology · axiomatic system · observation layers · value · operation · composition · environment · language theory · Chinese · English
+
 ## 文档结构 / Document Structure
 
 三层结构，建议按顺序阅读。<br>Three layers, recommended to read in order.
